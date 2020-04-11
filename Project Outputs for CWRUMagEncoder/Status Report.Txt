@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [CWRUMagEncoder.PrjPcb]
+   Generated File[Board_Copper_Signal_Top.gbr]
+   Generated File[Board_Copper_Signal_1.gbr]
+   Generated File[Board_Copper_Signal_2.gbr]
+   Generated File[Board_Copper_Signal_Bot.gbr]
+   Generated File[Board_Pads_Bot.gbr]
+   Generated File[Board_Pads_Top.gbr]
+   Generated File[Board_Legend_Bot.gbr]
+   Generated File[Board_Soldermask_Bot.gbr]
+   Generated File[Board_Paste_Bot.gbr]
+   Generated File[Board_Legend_Top.gbr]
+   Generated File[Board_Paste_Top.gbr]
+   Generated File[Board_Soldermask_Top.gbr]
+   Generated File[Board_Mechanical_13.gbr]
+   Generated File[Board_Mechanical_1.gbr]
+   Generated File[Board_Profile.gbr]
+   Generated File[Board_NPTH_Drill.gbr]
+   Generated File[Board_PTH_Drill.gbr]
+   Generated File[Board_Drawing_1.gbr]
+   Generated File[Board_Drillmap_1.gbr]
+   Generated File[Board.RUL]
+   Generated File[Board.EXTREP]
+   Generated File[Board.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 11:01:35 AM On 4/11/2020
